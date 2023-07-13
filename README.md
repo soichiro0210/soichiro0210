@@ -1,6 +1,8 @@
 <h1 align="left">Hi 🖖, I'm Soichiro</h1>
 <h3 align="left">An algorithm engineer from Tokyo</h3>
 
+[![Soichiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=soichiro0210)](https://github.com/soichiro0210/github-readme-stats)
+
 - 👀 I’m currently working on **NLP, LLM, UX design**
 
 <h3 align="left">Languages and Tools:</h3>
