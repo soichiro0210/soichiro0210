@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🖖, I'm Soichiro</h1>
-<h3 align="center">A algorithm engineer from Tokyo</h3>
+<h1 align="left">Hi 🖖, I'm Soichiro</h1>
+<h3 align="left">A algorithm engineer from Tokyo</h3>
 
 - 👀 I’m currently working on **NLP, LLM, UX design**
 
