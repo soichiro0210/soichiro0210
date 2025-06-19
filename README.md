@@ -1,4 +1,4 @@
-<h1 align="left">Hi 🖖, I'm Soichiro</h1>
+<h1 align="left">Hi, I'm Soichiro</h1>
 <h3 align="left">An algorithm engineer based in Tokyo</h3>
 
 - I’m currently working on **NLP, LLM, UX design**
