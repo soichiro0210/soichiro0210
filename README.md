@@ -5,3 +5,5 @@
   - Speech AI🗣️
   - Explainable AI（XAI）📊
   - Neuro psychology🧠
+- My roles:
+  - Leading IGSA AI team
